@@ -1,2 +1,10 @@
-# Syntecxhub_Project_1_TimeSeries_Category_Charts
-This project was completed as part of the Syntecxhub Data Science Internship – Week 2 Task. It analyzes sales data using time-series and categorical visualizations with Python, Pandas, NumPy, and Matplotlib to identify trends and compare category-wise performance.
+# Syntecxhub Project 1 – Time Series & Category Charts
+
+This project is completed as per Syntecxhub Data Science Week-2 instructions.
+
+## How to Run
+pip install pandas numpy matplotlib
+python analysis.py
+
+## Output
+Charts are displayed on screen and saved as PNG files.

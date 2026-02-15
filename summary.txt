@@ -1,0 +1,6 @@
+PROJECT 1 – TIME SERIES & CATEGORY CHARTS
+
+Line chart shows monthly sales trends.
+Bar chart compares total sales across categories.
+Pie chart displays category-wise sales share.
+Charts are saved as PNG and displayed during execution.
